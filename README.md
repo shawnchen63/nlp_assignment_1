@@ -44,6 +44,15 @@ Part 3 - Instructions on how to use the sentiment analysis application:
 
 Note: model weights may take up to a few minutes to load into your device, ensure some RAM is free to run the application.
 
+Part 2 - source code in the jupyer notebook [file](SourceCode/part_2/part2.ipynb). Outputs and explanations are given in the code.
+```bash
+cd SourceCode/part_2/
+jupyter notebook
+
+```
+
+
+
 ## Report
 Our report can be found [here](report.pdf).
 

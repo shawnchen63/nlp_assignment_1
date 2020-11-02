@@ -10,6 +10,11 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the [re
 cd SourceCode/
 pip install -r requirements.txt
 ```
+or using conda:
+```bash
+cd SourceCode/
+conda install --file requirements.txt
+```
 
 ## Usage
 
@@ -18,12 +23,6 @@ Part 1 - source code in the jupyer notebook [file](SourceCode/part_1/part1.ipynb
 cd SourceCode/part_1/
 jupyter notebook
 
-```
-
-
-```bash
-cd SourceCode/part_3/training
-jupyter notebook
 ```
 
 Part 2 - Source code in the jupyer notebook [file](SourceCode/part_2/). Outputs and explanations are given in the code.

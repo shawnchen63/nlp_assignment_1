@@ -10,11 +10,6 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the [re
 cd SourceCode/
 pip install -r requirements.txt
 ```
-or using conda:
-```bash
-cd SourceCode/
-conda install --file requirements.txt
-```
 
 ## Usage
 

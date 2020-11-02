@@ -3,5 +3,10 @@ pandas
 numpy
 notebook
 matplotlib
+inquirer
+scikit-learn
+seaborn
+tensorflow
+transformers
 spacy
 re

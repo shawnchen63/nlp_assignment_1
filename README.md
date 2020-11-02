@@ -11,7 +11,7 @@ pip install -r requirements.txt
 ```
 or using conda:
 ```bash
-conda install --file requirements. txt
+conda install --file requirements.txt
 ```
 
 ## Usage

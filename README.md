@@ -31,8 +31,6 @@ cd SourceCode/part_3/training
 jupyter notebook
 ```
 
-
-
 Part 2 - Source code in the jupyer notebook [file](SourceCode/part_2/). Outputs and explanations are given in the code.
 
 - Webscrapper to get dataset is located in enola_holmes_imdb_review_scraper.py [file](SourceCode/part_2/enola_holmes_imdb_review_scraper.py).

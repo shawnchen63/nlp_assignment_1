@@ -49,7 +49,7 @@ Part 3 - source code for training in the jupyer notebook [sentiment_analysis_ker
 1) Ensure python>=3.6 is used.
 2) ```cd SourceCode/```
 3) Run ```pip install -r requirements.txt``` in the working directory and then run ```pip install torch===1.7.0 torchvision===0.8.1 torchaudio===0.7.0 -f https://download.pytorch.org/whl/torch_stable.html``` or check pytorch.org for your version of a stable update. Installation will take a few minutes.
-4)```cd part_3/application/```
+4) ```cd part_3/application/```
 5) Download model weights using this [link](https://drive.google.com/file/d/1GuDtqzlRqpO6L-McD-jMZr3OuPYrjaTH/view?usp=sharing) and add it under the application directory.
 6) Run ```python ./deep_sentiment_analysis.py```
 7) Follow the instructions in the application.

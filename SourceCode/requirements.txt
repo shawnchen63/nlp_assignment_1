@@ -9,4 +9,3 @@ seaborn
 tensorflow
 transformers
 spacy
-re

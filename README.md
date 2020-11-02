@@ -41,9 +41,13 @@ cd SourceCode/part_2/
 jupyter notebook
 
 ```
-Part 3 - source code for training in the jupyer notebook [sentiment_analysis_keras_classical](SourceCode\part_3\training\sentiment_analysis_keras_classical.ipynb) and [sentiment_analysis_bert](SourceCode\part_3\training\sentiment_analysis_bert.ipynb). All sample outputs are available in the notebook. 
+Part 3 - source code for training in the jupyer notebooks [sentiment_analysis_keras_classical](SourceCode\part_3\training\sentiment_analysis_keras_classical.ipynb) and [sentiment_analysis_bert](SourceCode\part_3\training\sentiment_analysis_bert.ipynb). All sample outputs are available in the notebook. 
 - Note that for training the bidirectional LSTM in sentiment_analysis_keras_classical.ipynb, glove weights 'glove.6B.100d.txt' needs to be downloaded from https://nlp.stanford.edu/projects/glove/.
+```bash
+cd SourceCode/part_3/training
+jupyter notebook
 
+```
 ## Instructions on how to use the sentiment analysis application
 
 1) Ensure python>=3.6 is used.

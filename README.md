@@ -25,6 +25,15 @@ jupyter notebook
 
 ```
 
+Part 2 - source code in the jupyer notebook [file](SourceCode/part_2/part2.ipynb). Outputs and explanations are given in the code.
+```bash
+cd SourceCode/part_2/
+jupyter notebook
+
+```
+
+
+
 ## Report
 Our report can be found [here](report.pdf).
 
